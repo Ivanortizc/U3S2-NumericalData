@@ -16,8 +16,8 @@ Read this story and calculate/print the totalEggs collected between Monday and W
 
 | eggsPerChicken | chickenCount |
 | -------------- | ------------ |
-| 5 | 3 |
-| 4 | 8 | 
+| 5 | 3 |45
+| 4 | 8 | 84
 
 #### Getting started
 
@@ -34,7 +34,10 @@ Read this story and calculate/pring the required values:
 * On Wednesday, Farmer Fred collects 117 eggs
 * What is the dailyAverage of eggs collected?
 * How many eggs could be expected in a 30-day monthlyAverage?
-* If an egg can be sold for profit of $0.18, what is Farmer Fred's total monthlyProfit for all eggs?
+  * If an egg can be sold for profit of $0.18, what is Farmer Fred's total monthlyProfit for all eggs?
+  Daily Avgerage = 112.67 eggs per day
+      Monthly Average 30 days = 3380 eggs
+      total Profit = $608.40
 
 #### Getting started
 
